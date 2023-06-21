@@ -4,7 +4,7 @@
   <img src="https://gifdb.com/images/file/lofi-rooftop-study-night-chill-lqcvkej9ymld5zbv.gif">
 </div>
 
-I am an aspiring software engineer with a degree in Mathematics + Economics and working experience Human Resources
+I am an aspiring software engineer with a degree in Mathematics + Economics and working experience Human Resources.
 
 
 Call me...
