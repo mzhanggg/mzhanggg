@@ -16,7 +16,7 @@ Call me...
 - <del>yours uwu</del>
 
 
-- 🔭 I’m currently working on: 100% The Legend of Zelda: Tears of the Kingdom and finishing touches on peepoHungry - my Yelp clone
+- 🔭 I’m currently working on: 100% The Legend of Zelda: Tears of the Kingdom, peepoHungry (my Yelp clone)
 
 
 ### Let's Connect
