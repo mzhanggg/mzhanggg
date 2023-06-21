@@ -4,6 +4,7 @@
   <img src="https://gifdb.com/images/file/lofi-rooftop-study-night-chill-lqcvkej9ymld5zbv.gif">
 </div>
 
+<br><br>
 I am an aspiring software engineer with a degree in Mathematics + Economics and working experience Human Resources.
 
 
