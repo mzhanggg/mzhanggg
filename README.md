@@ -13,7 +13,6 @@ Call me...
 - A team player
 - A meme Connoisseur 🤌🏻
 - <del>God Gamer</del>
-- <del>yours uwu</del>
 
 
 - 🔭 I’m currently working on: 100% The Legend of Zelda: Tears of the Kingdom, peepoHungry (my Yelp clone)
