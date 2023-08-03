@@ -5,8 +5,7 @@
 </div>
 
 <br><br>
-I am an aspiring software engineer with a degree in Mathematics + Economics and working experience Human Resources.
-
+Software engineer with a degree in Mathematics + Economics and working experience in Human Resources. Checkout out my <a href="https://mzhanggg.github.io/michelezhangg/">portfolio</a> for my projects!
 
 Call me...
 - A learner
@@ -26,7 +25,11 @@ Call me...
   <a target="_blank" href="https://wellfound.com/u/michele-zhang-1">
     <img src="https://img.shields.io/badge/wellfound-white?style=for-the-badge&logo=AngelList&logoColor=black" alt="WellFound Badge"/>
   </a>
+  <br></br>
+  <li>Email me at: michelezhang98@gmail.com</li>
 </div>
+
+
 <!--
 **mzhanggg/mzhanggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
